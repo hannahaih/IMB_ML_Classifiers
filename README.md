@@ -20,4 +20,6 @@
 
 - Notebook on Gist: https://gist.github.com/hannahaih/e00ed22ee04e8c1732060a053caf7abb
 
+- Notebook on IBM Cloud: https://is.gd/6A5yVV
+
 - IBM Course on coursera: Course: https://www.coursera.org/learn/machine-learning-with-python
