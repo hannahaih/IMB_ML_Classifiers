@@ -1,5 +1,3 @@
-# IMB_Capstone_Project
-
 <a href="https://www.bigdatauniversity.com"><img src="https://ibm.box.com/shared/static/cw2c7r3o20w9zn8gkecaeyjhgw3xdgbj.png" width="400" align="center"></a>
 
 <h1 align="center"><font size="5">Final Project for "Classification with Python"</font></h1>
