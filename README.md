@@ -1,7 +1,8 @@
-# IMB_Capstone_Project
+
 
 <h1 align="center"><font size="5">Final Project for "Classification with Python"</font></h1>
-<h1 align="center"><font size="3">Hannah Reber, 2020</font></h1>
+
+<h1 align="center"><font size="2">ℍ◮ℕℕ◭ℍ ℝ∈ᛔ∈ℝ, 2020</font></h1>
 
 #### Imports
 
