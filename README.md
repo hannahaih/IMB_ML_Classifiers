@@ -1,6 +1,6 @@
 # IBM Machine Learning with Python
 
-## Final Project for "Classification with Python"
+**Final Project for "Classification with Python"**
 
 ℍ◮ℕℕ◭ℍ ℝ∈ᛔ∈ℝ, 2020
 
