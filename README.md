@@ -7,7 +7,6 @@
 **Final Project for "Classification with Python"**
 
 
-Course: https://www.coursera.org/learn/machine-learning-with-python
 
 
 ## Contents of this repo:
@@ -15,3 +14,10 @@ Course: https://www.coursera.org/learn/machine-learning-with-python
 - Results: https://github.com/hannahaih/IMB_Capstone_Project/blob/main/notebook/FinalProjectCognitiveClass.md
 
 - Corresponding notebook: https://github.com/hannahaih/IMB_Capstone_Project/blob/main/notebook/FinalProjectCognitiveClass.ipynb
+
+
+### Links
+
+- Notebook on Gist: https://gist.github.com/hannahaih/e00ed22ee04e8c1732060a053caf7abb
+
+- IBM Course on coursera: Course: https://www.coursera.org/learn/machine-learning-with-python
