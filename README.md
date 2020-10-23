@@ -11,14 +11,14 @@
 
 ## Contents of this repo:
 
-- Results: https://github.com/hannahaih/IMB_Capstone_Project/blob/main/notebook/FinalProjectCognitiveClass.md
+- Main Jupyter Notebook: https://github.com/hannahaih/IMB_Capstone_Project/blob/main/notebook/FinalProjectCognitiveClass.md
 
-- Corresponding notebook: https://github.com/hannahaih/IMB_Capstone_Project/blob/main/notebook/FinalProjectCognitiveClass.ipynb
+- CSV Score Results for all models: https://is.gd/Y2CG1v
 
 
 ### Links
 
-- This GitHub repo: https://github.com/hannahaih/IMB_ML_Classifiers
+- This GitHub: https://github.com/hannahaih/IMB_ML_Classifiers
 
 - Notebook on Gist: https://is.gd/zEcPlm
 
