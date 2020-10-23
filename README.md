@@ -18,8 +18,10 @@
 
 ### Links
 
-- Notebook on Gist: https://gist.github.com/hannahaih/e00ed22ee04e8c1732060a053caf7abb
+- This GitHub repo: https://github.com/hannahaih/IMB_ML_Classifiers
 
-- Notebook on IBM Cloud: https://is.gd/6A5yVV
+- Notebook on Gist: https://is.gd/zEcPlm
+
+- Notebook on IBM Cloud: https://is.gd/5nEW0A
 
 - IBM Course on coursera: Course: https://www.coursera.org/learn/machine-learning-with-python
