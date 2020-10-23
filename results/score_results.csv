@@ -1,0 +1,5 @@
+,Algorithm,Jaccard,F1_score,LogLoss
+0,KNN,0.561,0.696,
+1,DT,0.592,0.737,
+2,SVM,0.647,0.758,
+3,LR,0.549,0.63,0.516
